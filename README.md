@@ -1,4 +1,4 @@
-<img align="right" width="230" src="https://raw.githubusercontent.com/062-SIBI/kkukkkukkkuk/main/about/img/v5_home_1105.jpg" alt="꾹꾹이 홈 화면: 오늘 꾹게이지 86, 평소만큼 걸었어요">
+<img align="right" width="230" src="padd_home.jpg" alt="꾹꾹이 홈 화면: 오늘 꾹게이지 86, 평소만큼 걸었어요">
 
 ### 시영욱 / Si Yeongwook
 
