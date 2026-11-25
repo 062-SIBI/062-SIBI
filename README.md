@@ -22,6 +22,7 @@ I ran offline communities for ten years. Now I build and ship products myself wi
 | 2015~ | 커뮤니티 운영: 부산 작업실 파티, 오프라인 살롱 '거실;', 4FL | Community building and offline events |
 | 2023~2026 | 코리너스글로벌: 미디어팀 PM, 해외PM팀 팀장, 사업개발팀 매니저 | Korea-Japan marketing agency, from PM to business development |
 | 2026~ | 제품 제작: 꾹꾹이(앱스토어 출시), Poopy, 모임 로테이션 도구, 유튜브 채널 호꾹이 | Building products with AI: PADD (on the App Store), Poopy, a meetup rotation tool, a YouTube channel |
+| 2026.09~ | [서울시암(SEOULSIAM)](https://062-sibi.github.io/seoulsiam/) 공동대표: 한국 브랜드와 태국 크리에이터를 잇는 에이전시, 방콕 컬처 매거진 운영 | Co-founder of SEOULSIAM, a Korea-Thailand creator agency running a Bangkok culture magazine |
 
 일은 AI 비서 [시온](https://github.com/062-SIBI/sion-ai-workflow)과 함께 합니다. 제가 고쳐 준 내용을 기록해 다음 일에 적용합니다.<br>
 I work with Sion, my AI assistant that logs every correction and applies it next time.
