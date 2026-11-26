@@ -9,7 +9,9 @@ I ran offline communities for ten years. Now I build and ship products myself wi
 
 **지금 만드는 것 / Now building**<br>
 반려견 산책 앱 [꾹꾹이(PADD)](https://github.com/062-SIBI/kkukkkukkkuk)<br>
-오늘 산책은 충분했을까? Was today's walk enough?
+오늘 산책은 충분했을까? Was today's walk enough?<br>
+2인 협동 공포 게임 [Two Eyes Two Ears](https://github.com/062-SIBI/two-eyes-two-ears)<br>
+Godot 프로토타입 v28에서 Unity로 옮기는 중. Moving from a Godot prototype to Unity.
 
 [포트폴리오 / Portfolio](https://062-sibi.github.io/) &nbsp;|&nbsp; [꾹꾹이 써 보기 / Try PADD](https://062-sibi.github.io/kkukkkukkkuk/) &nbsp;|&nbsp; [Poopy 하기 / Play Poopy](https://poopygame.com) &nbsp;|&nbsp; [메일 / Email](mailto:siyeongook@gmail.com)
 
@@ -42,6 +44,15 @@ I ran offline communities for ten years. Now I build and ship products myself wi
       <sub>70분 55초 분량 2화, 공개 5일 시청 시간 약 752시간 (2026.11.11)<br>A horror storytelling channel made with an AI pipeline</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://062-sibi.github.io/tete/"><img align="left" width="49%" src="img/tete.jpg" alt="Two Eyes Two Ears의 두 사람. 아트토이 피규어에 환자복을 입힌 할머니와 할아버지"></a>
+      <b>Two Eyes Two Ears</b> · 2인 협동 공포 게임 (기획·디렉션)<br>
+      <sub>한 명은 보고 한 명은 들으며, 말로만 정보를 건네 병원을 빠져나갑니다.<br>
+      12스테이지, 크리처 12종. Godot 프로토타입을 v28까지 만들고 지금 Unity로 옮기는 중 (2026.11.26)<br>
+      A two-player co-op horror game: one sees, one hears. Prototyped in Godot up to v28, now moving to Unity.</sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -50,7 +61,7 @@ I ran offline communities for ten years. Now I build and ship products myself wi
 |---|---|---|
 | 2015~ | 커뮤니티 운영: 부산 작업실 파티, 오프라인 살롱 '거실;', 4FL | Community building and offline events |
 | 2023~2026 | 코리너스글로벌: 미디어팀 PM, 해외PM팀 팀장, 사업개발팀 매니저 | Korea-Japan marketing agency, from PM to business development |
-| 2026~ | 제품 제작: 꾹꾹이(앱스토어 출시), Poopy, 모임 로테이션 도구, 유튜브 채널 호꾹이 | Building products with AI: PADD (on the App Store), Poopy, a meetup rotation tool, a YouTube channel |
+| 2026~ | 제품 제작: 꾹꾹이(앱스토어 출시), Poopy, 2인 협동 공포 게임 Two Eyes Two Ears(기획, Unity로 옮기는 중), 모임 로테이션 도구, 유튜브 채널 호꾹이 | Building products with AI: PADD (on the App Store), Poopy, Two Eyes Two Ears (game design, moving to Unity), a meetup rotation tool, a YouTube channel |
 | 2026.09~ | [서울시암(SEOULSIAM)](https://062-sibi.github.io/seoulsiam/) 공동대표: 한국 브랜드와 태국 크리에이터를 잇는 에이전시, 방콕 컬처 매거진 운영 | Co-founder of SEOULSIAM, a Korea-Thailand creator agency running a Bangkok culture magazine |
 
 일은 AI 비서 [시온](https://github.com/062-SIBI/sion-ai-workflow)과 함께 합니다. 제가 고쳐 준 내용을 기록해 다음 일에 적용합니다.<br>
