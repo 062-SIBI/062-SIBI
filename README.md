@@ -15,6 +15,35 @@ I ran offline communities for ten years. Now I build and ship products myself wi
 
 <br clear="right">
 
+### 만든 것 / Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://062-sibi.github.io/padd/"><img src="img/padd.jpg" alt="꾹꾹이 앱스토어 화면 세 장"></a><br>
+      <b>꾹꾹이 (PADD)</b> · 반려견 산책 앱<br>
+      <sub>그 강아지의 평소 기록과 견줘 오늘 산책을 보여 줍니다. 2026.11 앱스토어 출시<br>A dog-walking app, now on the App Store</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://062-sibi.github.io/seoulsiam/"><img src="img/seoulsiam.jpg" alt="서울시암 로고와 방콕 컬처 매거진 표지"></a><br>
+      <b>서울시암 (SEOULSIAM)</b> · 공동대표<br>
+      <sub>한국 브랜드와 태국 크리에이터를 잇는 에이전시, 방콕 컬처 매거진 운영<br>A Korea-Thailand creator agency</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://062-sibi.github.io/poopy/"><img src="img/poopy.jpg" alt="Poopy 커버 아트"></a><br>
+      <b>Poopy</b> · 웹 육성 게임<br>
+      <sub>46종, 조합 레시피 79개. 기획부터 배포까지 혼자<br>An idle poop-collecting web game</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://062-sibi.github.io/hokkuki/"><img src="img/hokkuki.jpg" alt="호꾹이 채널 배너"></a><br>
+      <b>호꾹이</b> · 유튜브 채널 (공동 운영)<br>
+      <sub>70분 55초 분량 2화, 공개 5일 시청 시간 약 752시간 (2026.11.11)<br>A horror storytelling channel made with an AI pipeline</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 | 기간 | 한 일 | In English |
